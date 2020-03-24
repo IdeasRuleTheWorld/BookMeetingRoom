@@ -1,0 +1,4 @@
+dependencies: \
+  /Users/a166908/Documents/dump/BookMeetingRoom/node_modules/react-native/ReactCommon/yoga/yoga/event/event.cpp \
+  /Users/a166908/Documents/dump/BookMeetingRoom/ios/Pods/Target\ Support\ Files/yoga/yoga-prefix.pch \
+  /Users/a166908/Documents/dump/BookMeetingRoom/node_modules/react-native/ReactCommon/yoga/yoga/event/event.h

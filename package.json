@@ -1,0 +1,48 @@
+{
+  "name": "BookMeetingRoom",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "ios": "react-native run-ios -- --reset-cache",
+    "ios-bundle": "react-native bundle --entry-file index.js --platform ios --dev false --bundle-output ios/main.jsbundle --assets-dest ios",
+    "android": "react-native run-android -- --reset-cache",
+    "android-bundle": "react-native bundle --platform android --dev false --entry-file index.js --bundle-output android/app/src/main/assets/index.android.bundle --assets-dest android/app/src/main/res/",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@react-native-community/datetimepicker": "^2.3.0",
+    "@react-native-community/masked-view": "^0.1.7",
+    "@react-navigation/native": "^5.1.2",
+    "@react-navigation/stack": "^5.2.4",
+    "axios": "^0.19.2",
+    "moment": "^2.24.0",
+    "native-base": "^2.13.12",
+    "react": "16.8.6",
+    "react-native": "0.60.5",
+    "react-native-camera": "^3.6.0",
+    "react-native-gesture-handler": "^1.6.1",
+    "react-native-modal-datetime-picker": "^8.5.1",
+    "react-native-reanimated": "^1.7.0",
+    "react-native-safe-area-context": "^0.7.3",
+    "react-native-screens": "^2.4.0",
+    "react-native-webview": "^9.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "7.9.0",
+    "@babel/runtime": "7.9.0",
+    "@react-native-community/eslint-config": "0.0.3",
+    "babel-jest": "24.9.0",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.2",
+    "eslint": "6.8.0",
+    "jest": "24.9.0",
+    "metro-react-native-babel-preset": "0.54.1",
+    "react-dom": "^16.13.1",
+    "react-test-renderer": "16.8.6"
+  },
+  "jest": {
+    "preset": "react-native",
+    "setupTestFrameworkScriptFile": "<rootDir>/jestSetup.js"
+  }
+}

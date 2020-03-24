@@ -1,0 +1,7 @@
+#Tue Mar 24 10:28:09 SGT 2020
+base.1=/Users/a166908/Documents/dump/BookMeetingRoom/android/app/build/intermediates/transforms/dexMerger/release/0
+path.1=classes2.dex
+base.0=/Users/a166908/Documents/dump/BookMeetingRoom/android/app/build/intermediates/transforms/dexMerger/release/0
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=classes.dex

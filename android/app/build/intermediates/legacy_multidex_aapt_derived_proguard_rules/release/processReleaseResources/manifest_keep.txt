@@ -1,0 +1,4 @@
+# Referenced at /Users/a166908/Documents/dump/BookMeetingRoom/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:24
+-keep class androidx.core.app.CoreComponentFactory { <init>(); }
+# Referenced at /Users/a166908/Documents/dump/BookMeetingRoom/android/app/build/intermediates/merged_manifests/release/AndroidManifest.xml:24
+-keep class com.bookmeetingroom.MainApplication { <init>(); }

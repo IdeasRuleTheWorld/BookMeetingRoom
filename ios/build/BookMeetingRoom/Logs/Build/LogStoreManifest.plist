@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>61EF9310-8EC1-4549-A8E2-EE8C73A4D94C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>61EF9310-8EC1-4549-A8E2-EE8C73A4D94C.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BookMeetingRoom project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BookMeetingRoom</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace BookMeetingRoom with scheme BookMeetingRoom and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>606719983.57980001</real>
+			<key>timeStoppedRecording</key>
+			<real>606719984.94166899</real>
+			<key>title</key>
+			<string>Building workspace BookMeetingRoom with scheme BookMeetingRoom and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>61EF9310-8EC1-4549-A8E2-EE8C73A4D94C</string>
+		</dict>
+		<key>F1031446-6CE8-44B0-B26E-8F54E6DEF166</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F1031446-6CE8-44B0-B26E-8F54E6DEF166.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>BookMeetingRoom project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>BookMeetingRoom</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace BookMeetingRoom with scheme BookMeetingRoom and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>606709360.44770706</real>
+			<key>timeStoppedRecording</key>
+			<real>606709367.91324794</real>
+			<key>title</key>
+			<string>Building workspace BookMeetingRoom with scheme BookMeetingRoom and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>F1031446-6CE8-44B0-B26E-8F54E6DEF166</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
